@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtils/static/css/main.a666e07f.chunk.css",
-  "main.js": "/TextUtils/static/js/main.03021cdc.chunk.js",
-  "main.js.map": "/TextUtils/static/js/main.03021cdc.chunk.js.map",
-  "static/js/1.8c8ed3e6.chunk.js": "/TextUtils/static/js/1.8c8ed3e6.chunk.js",
-  "static/js/1.8c8ed3e6.chunk.js.map": "/TextUtils/static/js/1.8c8ed3e6.chunk.js.map",
-  "static/js/2.2b8e7308.chunk.js": "/TextUtils/static/js/2.2b8e7308.chunk.js",
-  "static/js/2.2b8e7308.chunk.js.map": "/TextUtils/static/js/2.2b8e7308.chunk.js.map",
-  "runtime~main.js": "/TextUtils/static/js/runtime~main.df05ce19.js",
-  "runtime~main.js.map": "/TextUtils/static/js/runtime~main.df05ce19.js.map",
-  "static/css/main.a666e07f.chunk.css.map": "/TextUtils/static/css/main.a666e07f.chunk.css.map",
-  "index.html": "/TextUtils/index.html",
-  "precache-manifest.57ae082aeead9d78776ecbe1385331d1.js": "/TextUtils/precache-manifest.57ae082aeead9d78776ecbe1385331d1.js",
-  "service-worker.js": "/TextUtils/service-worker.js"
+  "main.css": "/text1/static/css/main.52f6b3f5.chunk.css",
+  "main.js": "/text1/static/js/main.b472adda.chunk.js",
+  "main.js.map": "/text1/static/js/main.b472adda.chunk.js.map",
+  "static/js/1.8c8ed3e6.chunk.js": "/text1/static/js/1.8c8ed3e6.chunk.js",
+  "static/js/1.8c8ed3e6.chunk.js.map": "/text1/static/js/1.8c8ed3e6.chunk.js.map",
+  "static/js/2.2b8e7308.chunk.js": "/text1/static/js/2.2b8e7308.chunk.js",
+  "static/js/2.2b8e7308.chunk.js.map": "/text1/static/js/2.2b8e7308.chunk.js.map",
+  "runtime~main.js": "/text1/static/js/runtime~main.159873c6.js",
+  "runtime~main.js.map": "/text1/static/js/runtime~main.159873c6.js.map",
+  "static/css/main.52f6b3f5.chunk.css.map": "/text1/static/css/main.52f6b3f5.chunk.css.map",
+  "index.html": "/text1/index.html",
+  "precache-manifest.5d862b10c89c6bc3bdf1816b1793f3a0.js": "/text1/precache-manifest.5d862b10c89c6bc3bdf1816b1793f3a0.js",
+  "service-worker.js": "/text1/service-worker.js"
 }
